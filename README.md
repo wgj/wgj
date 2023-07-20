@@ -3,7 +3,7 @@
 I'm a linux sysadmin masquerading as DevOps and SRE, or whatever we're calling it these days.
 I like working in the cloud with Kubernetes, though I have done my time with irl datacenters.
 
-Previously worked at SpaceX & AWS. Attended [42 US](https://www.42.us.org/), Piscine of 04/17
+Previously worked at SpaceX, AWS, and Burning Man. Attended [42 US](https://www.42.us.org/), Piscine of 04/17
 
 [![Linkedin Badge](https://img.shields.io/badge/-Weston%20Johnson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/westonjohnson/)](https://www.linkedin.com/in/westonjohnson/)
 [![Email Badge](https://img.shields.io/badge/mail-github@futurprefect.com-lightblue?style=flat&logo=ProtonMail&logoColor=white&link=mailto:github@futureprefect.com)](mailto:github@futureprefect.com)
