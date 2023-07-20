@@ -10,6 +10,3 @@ Previously worked at SpaceX & AWS. Attended [42 US](https://www.42.us.org/), Pis
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-wgj-lightblue?style=flat&logo=StackOverflow&link=https://stackoverflow.com/users/2529592/wgj)](https://stackoverflow.com/users/2529592/wgj)
 [![Blog Badge](https://img.shields.io/badge/blog-futureprefect.com-lightblue?style=flat&link=https://futureprefect.com)](https://futureprefect.com)
 
-
-![wgj's github stats](https://github-readme-stats.vercel.app/api?username=wgj&count_private=true&include_all_commits=true&hide_title=true)
-
